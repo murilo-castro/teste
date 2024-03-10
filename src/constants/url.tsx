@@ -1,0 +1,1 @@
+export const BASE_URL = "https://jzuwoup2ch.execute-api.us-east-2.amazonaws.com/development"

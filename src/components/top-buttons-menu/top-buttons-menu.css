@@ -1,0 +1,7 @@
+.top-button-menu {
+    background: var(--brand-secondary-500, #062A3C);
+}
+
+.top-button-menu-span {
+    color: var(--brand-tertiary-50, #FFF8F0);
+}

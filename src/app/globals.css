@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  /* .carousel-container{
+  @apply relative h-32 w-3/6 sm:h-40 md:h-56;
+  perspective: 450px;
+  transform-style: preserve-3d;
+} */
+
+  /* .carousel-item {
+    @apply absolute h-full w-full cursor-pointer overflow-hidden rounded-3xl drop-shadow-lg transition-all duration-700
+  } */
+
+  /* .swiper-button-next {
+    @apply text-white bg-black
+  } */
+}
