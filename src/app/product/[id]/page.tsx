@@ -54,10 +54,6 @@ const  nutritional_table = {
       grams_per_kilos: 20,
       percenfit: 10,
     },
-    calcium: {
-      grams_per_kilos: 15,
-      percenfit: 10,
-    },
     phosphor: {
       grams_per_kilos: 8,
       percenfit: 10,
