@@ -7,7 +7,6 @@ SwiperCore.use([Navigation, Pagination, Scrollbar, A11y])
 export default function HomePage() {
   return (
     <>
-      <Header />
       <div className="container mx-auto md:px-20">
         <Swiper
           spaceBetween={50}
