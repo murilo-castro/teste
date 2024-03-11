@@ -2,7 +2,6 @@
 import { BreadCrumbs } from "@/components/BreadCrumbs"
 import Image from "next/image";
 import { Chart } from "react-google-charts";
-import { product } from "../../product_db/product_id"
 
 
 const poppins = Poppins({
